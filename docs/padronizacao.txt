@@ -56,8 +56,7 @@ Exemplos:
 6. PADRAO VISUAL (conforme especificacao tecnica)
 -------------------------------------
 Tipografia:
-  Titulos:        Verdana, Bold
-  Corpo de texto: Tahoma, Regular
+  Títulos e corpo: Inter, pesos 400 a 800
 
 Cores por modulo (usar em shared/styles/variables.css):
   Despensa      -> Bege Frances     #A67B5B

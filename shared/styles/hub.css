@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
 /* ==========================================================
   RESET E TIPOGRAFIA
   ========================================================== */
@@ -10,7 +12,7 @@
 body {
   background-color: var(--bg-color);
   color: var(--text-color);
-  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Inter', sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -20,7 +22,7 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 /* ==========================================================
@@ -68,7 +70,7 @@ header {
   font-weight: 600;
   font-size: 0.9rem;
   cursor: pointer;
-  font-family: Tahoma, sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 /* ==========================================================
@@ -97,7 +99,7 @@ header {
   border: none;
   outline: none;
   color: var(--text-color);
-  font-family: Tahoma, sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.9rem;
 }
 
@@ -189,7 +191,7 @@ main {
   font-size: 0.8rem;
   font-weight: 600;
   cursor: pointer;
-  font-family: Tahoma, sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 .btn-access:hover {
